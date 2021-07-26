@@ -1,0 +1,25 @@
+#logo {
+    width: 80px;
+}
+
+
+.footerContainer {
+    padding-top: 20px;
+}
+
+.button04 {
+    background-color: rgb(56,92,109);
+    color: white;
+    border-radius: 2px;
+}
+
+#socialHandles {
+    padding-left: 75%;
+    display: inline-block;
+}
+
+.resumeText {
+    margin: 2px;
+}
+
+
