@@ -22,4 +22,73 @@
     margin: 2px;
 }
 
+.display-4 {
+    text-align: center;
+}
 
+#CaseStudy {
+    margin: 0px 800px;
+}
+
+.lead {
+    text-align: center;
+    padding-top: 10px;
+}
+
+.Paragraph1 {
+    text-align: center;
+}
+
+.container {
+    text-align: center;
+}
+
+.btn btn-primary btn-lg {
+    margin: 15px 20px;
+}
+
+.col {
+    text-align: center;
+}
+
+h1 {
+    font-size: 32px;
+}
+
+h2 {
+    text-align: center;
+}
+
+#ValueProp {
+    margin: 0 auto;
+}
+
+h3 {
+    text-align: center;
+}
+
+#sketches {
+    margin-left: 600px;
+}
+
+#wireframes {
+    margin-left: 600px;
+}
+
+.card-body {
+    text-align: center;
+}
+
+h4 {
+    text-align: center;
+    font-size: 32px;
+}
+
+#image01 {
+    margin-left: 350px;
+}
+
+h5 {
+    text-align: center;
+    font-size: 32px;
+}
